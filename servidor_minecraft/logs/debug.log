@@ -1060,3 +1060,11 @@
 [16Dec2024 02:33:49.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XxllertixX joined the game
 [16Dec2024 02:36:33.025] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [16Dec2024 02:36:33.028] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Dec2024 02:41:32.961] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Dec2024 02:41:32.964] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Dec2024 02:44:30.538] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: XxllertixX lost connection: Disconnected
+[16Dec2024 02:44:30.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XxllertixX left the game
+[16Dec2024 02:46:33.094] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Dec2024 02:46:33.097] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Dec2024 02:50:28.681] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Fbricio41 lost connection: Disconnected
+[16Dec2024 02:50:28.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fbricio41 left the game
