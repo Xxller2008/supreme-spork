@@ -184,3 +184,6 @@
 [16Dec2024 02:16:42.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fbricio41 was slain by Zombie
 [16Dec2024 02:19:07.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Yormiking13 has made the advancement [Monster Hunter]
 [16Dec2024 02:20:04.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fbricio41 was blown up by Creeper
+[16Dec2024 02:22:09.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Yormiking13 was blown up by Creeper
+[16Dec2024 02:26:47.389] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Yormiking13 lost connection: Disconnected
+[16Dec2024 02:26:47.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Yormiking13 left the game

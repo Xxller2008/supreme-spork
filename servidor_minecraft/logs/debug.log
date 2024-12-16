@@ -960,3 +960,10 @@
 [16Dec2024 02:16:42.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fbricio41 was slain by Zombie
 [16Dec2024 02:19:07.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Yormiking13 has made the advancement [Monster Hunter]
 [16Dec2024 02:20:04.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fbricio41 was blown up by Creeper
+[16Dec2024 02:21:33.219] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Dec2024 02:21:33.224] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Dec2024 02:22:09.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Yormiking13 was blown up by Creeper
+[16Dec2024 02:26:34.009] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Dec2024 02:26:34.013] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Dec2024 02:26:47.389] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Yormiking13 lost connection: Disconnected
+[16Dec2024 02:26:47.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Yormiking13 left the game
