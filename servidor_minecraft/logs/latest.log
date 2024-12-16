@@ -187,3 +187,8 @@
 [16Dec2024 02:22:09.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Yormiking13 was blown up by Creeper
 [16Dec2024 02:26:47.389] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Yormiking13 lost connection: Disconnected
 [16Dec2024 02:26:47.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Yormiking13 left the game
+[16Dec2024 02:33:21.586] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: XxllertixX lost connection: Disconnected
+[16Dec2024 02:33:21.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XxllertixX left the game
+[16Dec2024 02:33:49.685] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7bbc7607
+[16Dec2024 02:33:49.689] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: XxllertixX[/127.155.219.231:57451] logged in with entity id 7077 at (-125.69999998807893, 71.0, -281.30000001192116)
+[16Dec2024 02:33:49.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XxllertixX joined the game
